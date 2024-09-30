@@ -1,4 +1,4 @@
-👨‍💻 Hey, I'm Tanvi!
+👨‍💻 <b>Hey, I'm Tanvi!</b>
 
 🔮 They say I'm delving into tech like a pro, but let's be real—I'm just making educated guesses, hoping things don't crash (too much). One day, I might actually crack the matrix and understand machine learning and deep learning in their full glory!
 
